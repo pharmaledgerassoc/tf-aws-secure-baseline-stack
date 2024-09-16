@@ -1,4 +1,5 @@
 # terraform-aws-secure-baseline
+## This repo is no longer used and has been archived on 16.09.2024
 
 [![Github Actions](https://github.com/nozaq/terraform-aws-secure-baseline/actions/workflows/main.yml/badge.svg)](https://github.com/nozaq/terraform-aws-secure-baseline/actions/workflows/main.yml)
 [![Releases](https://img.shields.io/github/v/release/nozaq/terraform-aws-secure-baseline)](https://github.com/nozaq/terraform-aws-secure-baseline/releases/latest)
